@@ -54,10 +54,11 @@ Ensure you have the following installed:
 
 ## Screenshots
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./frontend/public/Login.png)
+
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./frontend/public/Home.png)
 
 ## Usage
 - Sign up or log in to start chatting.
