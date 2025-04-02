@@ -52,6 +52,13 @@ Ensure you have the following installed:
    npm run client
    ```
 
+## Screenshots
+### Login Page
+![Login Page](./screenshots/login.png)
+
+### Home Page
+![Home Page](./screenshots/home.png)
+
 ## Usage
 - Sign up or log in to start chatting.
 - Create chat groups or send direct messages.
