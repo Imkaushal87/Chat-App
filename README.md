@@ -60,6 +60,9 @@ Ensure you have the following installed:
 ### Home Page
 ![Home Page](./frontend/public/Home.png)
 
+### Theme Page
+![Theme Page](./frontend/public/theme.png)
+
 ## Usage
 - Sign up or log in to start chatting.
 - Create chat groups or send direct messages.
